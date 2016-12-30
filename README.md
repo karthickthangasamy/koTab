@@ -1,2 +1,0 @@
-# koTab
-tab repo
